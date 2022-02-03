@@ -4,9 +4,9 @@ Está á uma simples aplicação de cadastro de clientes, famoso CRUD, que tem c
 
 # O que aprendi
 
--API
--Noje.js
--Express
--Mongoose
--CI/CD com github actions
--Heroku CLI
+- API
+- Noje.js
+- Express
+- Mongoose
+- CI/CD com github actions
+- Heroku CLI
